@@ -1,8 +1,3 @@
 # paginated_data_sample
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Shows how to use the ListView.builder to incrementally load data when the last item in the list view scrolls into view
